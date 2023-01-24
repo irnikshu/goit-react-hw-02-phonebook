@@ -4,6 +4,7 @@ import Form from './Form/Form';
 import ContactsList from './Contacts/Contacts';
 import { nanoid } from 'nanoid';
 import Filter from './Filter/Filter';
+import shotrid from 'shortid';
 
 import styles from './app.module.scss';
 import '../shared/Styles/styles.scss';
